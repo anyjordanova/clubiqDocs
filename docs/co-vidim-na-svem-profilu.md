@@ -1,0 +1,1 @@
+# Co vidím na svém profilu? 

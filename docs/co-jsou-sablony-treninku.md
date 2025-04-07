@@ -1,0 +1,1 @@
+# Co jsou šablony tréninků? 

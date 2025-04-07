@@ -1,0 +1,1 @@
+# K čemu slouží deník? 

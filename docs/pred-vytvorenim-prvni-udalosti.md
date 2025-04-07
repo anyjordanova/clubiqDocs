@@ -1,0 +1,1 @@
+# Před vytvořením první události 

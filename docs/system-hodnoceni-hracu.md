@@ -1,0 +1,1 @@
+# Jak funguje hodnocení hráčů? 

@@ -1,0 +1,1 @@
+# Časté dotazy (FAQ) 

@@ -1,0 +1,1 @@
+# Tvorba tréninku ze šablony 
