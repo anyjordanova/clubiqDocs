@@ -9,3 +9,8 @@
 - Zkontrolujte připojení k internetu
 - Zkuste aplikaci restartovat
 - Pokud problém přetrvává, kontaktujte podporu
+
+## Pokud nic nepomohlo
+V případě přetrvávajících problémů se obraťte na naši podporu:
+ - email: **contact@clubiq.com**
+  

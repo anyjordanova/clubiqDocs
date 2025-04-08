@@ -46,6 +46,4 @@ Více informací o tom, jak lze s kurzy pracovat se dozvíte na stránce [Správ
    - Přidávat jednotlivé dovednosti
    - Spravovat existující dovednosti
 
-> POZOR: Dovednosti a jejich kategorie může tvořit pouze vlastník klubu. Pokud vám nějaký údaj schází, obraťte se na něj. 
-
 O tom, jak fungují dovednosti se dozvíte v sekci [Dovednosti](dovednosti.md).
